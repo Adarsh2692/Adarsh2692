@@ -216,26 +216,16 @@
 </p>
 
 <h3 align="left">Github Analytics:</h3>
-<p>
-	<img
-		align="left"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh2692&show_icons=true&locale=en&layout=compact"
-		alt="adarsh2692"
-	/>
+<p align="center">
+<a href="https://github.com/blackhat955">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adarsh2692&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adarsh2692&layout=compact&langs_count=12&theme=algolia"/>
+</a>
 </p>
-
-<p>
-	&nbsp;<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=adarsh2692&show_icons=true&locale=en"
-		alt="adarsh2692"
-	/>
-</p>
-
-<p>
+<p align="center">
 	<img
 		align="center"
-		src="https://github-readme-streak-stats.herokuapp.com/?user=adarsh2692&"
+		src="https://github-readme-streak-stats.herokuapp.com?user=adarsh2692&theme=algolia"
 		alt="adarsh2692"
 	/>
 </p>
