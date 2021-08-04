@@ -217,7 +217,7 @@
 
 <h3 align="left">Github Analytics:</h3>
 <p align="center">
-<a href="https://github.com/blackhat955">
+<a href="https://github.com/adarsh2692">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=adarsh2692&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=adarsh2692&layout=compact&langs_count=12&theme=algolia"/>
 </a>
